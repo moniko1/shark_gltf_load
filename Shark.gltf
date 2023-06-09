@@ -182,8 +182,12 @@
 			"primitives":[
 				{
 					"attributes":{
-						"POSITION":0,
-						"NORMAL":1
+						"JOINTS_0" : 5,
+                        					"NORMAL" : 2,
+                        					"POSITION" : 1,
+                        					"TANGENT" : 3,
+                        					"TEXCOORD_0" : 4,
+                        					"WEIGHTS_0" : 6
 					},
 					"indices":2,
 					"material":0
